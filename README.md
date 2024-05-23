@@ -13,7 +13,7 @@ These models have been trained and evaluated on a dataset to accomplish a classi
 The dataset chosen for this project is www.kaggle.com/datasets/kukuroo3/body-signal-of-smoking. It was selected due to its relevance to the domain and suitability for demonstrating the capabilities of the chosen machine learning algorithms. The dataset comprises 27 features for over 50000 values.
 
 ## Models
-We used two models, Decision Tree and Neural Network and both with and without the PCA.
+We used two models, Decision Tree and Neural Network both with and without the PCA.
 
 ## Contributors
 
